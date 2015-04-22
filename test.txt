@@ -7,3 +7,11 @@ public class Test0422{
 		new C().avgFunc(x, y);
 	}
 }
+class A{
+ 	void  minFunc(x, y){
+		if(x>y)
+	 	system.out.println("X");
+		else
+		system.out.println("Y");
+	}
+}
