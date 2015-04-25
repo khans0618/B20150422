@@ -15,3 +15,11 @@ class A{
 		system.out.println("Y");
 	}
 }
+class B{
+ 	void  minFunc(x, y){
+		if(x>y)
+	 	system.out.println("X");
+		else
+		system.out.println("Y");
+	}
+}
